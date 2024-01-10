@@ -48,25 +48,44 @@
 ### V. Data Exploration and Visualizations
 
    1. **Top 20 Best Selling Items**
-      ![Best Selling Items](link_to_image1)
+      <img width="791" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/f762e2b9-a681-481c-bbaa-8964b3de85c4">
+
 
    2. **Number of Items per Transaction**
-      ![Items per Transaction](link_to_image2)
+      <img width="166" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/be680b42-1a44-49cf-931d-7b240abec600">
+
 
    3. **Quantity Sold by Month, Day of Week, and Hours of Day**
-      ![Quantity Sold by Month](link_to_image3)
-      ![Quantity Sold by Day of Week](link_to_image4)
-      ![Quantity Sold by Hours of Day](link_to_image5)
+      <img width="786" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/6fb789ce-f4ea-4152-98bc-44232d2bd8d3">
+
+
+
+      <img width="550" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/815a1786-5452-47eb-977e-18090941d66a">
+
+
+
+      <img width="564" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/62ab8b1e-8f6e-4abf-b24e-2f0120ffb4f3">
+
 
 ### VI. Market Basket Analysis
 
    1. **Association Rules Results**
-      ![Association Rules](link_to_image6)
 
-   2. **Parallel Coordinates Plot, Itemsets Lift, and Itemsets Confidence**
-      ![Parallel Coordinates Plot](link_to_image7)
-      ![Itemsets Lift](link_to_image8)
-      ![Itemsets Confidence](link_to_image9)
+      <img width="733" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/5af29a4c-4aa7-46a6-8bf5-ca2f388a3a25">
+
+
+   3. **Parallel Coordinates Plot, Itemsets Lift, and Itemsets Confidence**
+
+       <img width="431" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/ffd76932-1bc8-4a3d-a446-c9c9491050ed">
+
+
+
+      <img width="679" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/903ca416-56bb-4b99-ad13-e40fc23ca0b5">
+
+
+
+      <img width="596" alt="image" src="https://github.com/Abhaykumar04/Market-Basket-Analysis/assets/112232080/478ef80f-62d7-408e-a1b1-095c8c8fe03e">
+
 
 ### VII. Insights
 
